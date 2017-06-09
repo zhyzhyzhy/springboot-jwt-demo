@@ -1,0 +1,12 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  datasource:
+    platform: h2
+    url: jdbc:h2:file:/home/zhy/demo.db;DB_CLOSE_ON_EXIT=FALSE
+server:
+  port: 8081
+
+

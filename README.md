@@ -1,2 +1,3 @@
 # springboot-jwt-demo
-spring-boot with jwt authentication
+spring-boot with jwt authentication demo
+
